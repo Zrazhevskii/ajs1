@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Zrazhevskii/ajs1/issues"
   },
-  "homepage": "https://github.com/Zrazhevskii/ajs1#readme"
+  "homepage": "https://github.com/Zrazhevskii/ajs1#readme",
+  "devDependencies": {
+    "webpack": "^5.85.1"
+  }
 }
